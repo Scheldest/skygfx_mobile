@@ -38,7 +38,7 @@ jobs:
             Build otomatis terbaru.
             Commit: ${{ github.sha }}
             Branch: ${{ github.ref_name }}
-          files: libs/armeabi-v7a/libImguiTest.so
+          files: libs/armeabi-v7a/libCameraStatic.so
           draft: false
           prerelease: false
         env:

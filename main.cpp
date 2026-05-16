@@ -10,7 +10,7 @@
 #endif
 
 // Deklarasi Mod
-MYMODCFG(net.test.camerasmooth, CameraSmoothAML, 1.2.0, YourName)
+MYMODCFG(net.dexsociety.camstatic, CameraStatic, 1.0, Dexsociety)
 
 uintptr_t pGameLib = 0;
 void* pGameHandle = nullptr;
